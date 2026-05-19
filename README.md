@@ -4,12 +4,12 @@
 
 ## 2026
 
-<table width="100%">
+<table width="1000">
   <tr>
-    <th align="left" width="8%">No.</th>
-    <th align="left" width="10%">Pub.</th>
-    <th align="left" width="62%">Title</th>
-    <th align="left" width="20%">Links</th>
+    <th align="left" width="70">No.</th>
+    <th align="left" width="90">Pub.</th>
+    <th align="left" width="650">Title</th>
+    <th align="left" width="190">Links</th>
   </tr>
   <tr>
     <td align="left">01</td>
@@ -21,12 +21,12 @@
 
 ## 2025
 
-<table width="100%">
+<table width="1000">
   <tr>
-    <th align="left" width="8%">No.</th>
-    <th align="left" width="10%">Pub.</th>
-    <th align="left" width="62%">Title</th>
-    <th align="left" width="20%">Links</th>
+    <th align="left" width="70">No.</th>
+    <th align="left" width="90">Pub.</th>
+    <th align="left" width="650">Title</th>
+    <th align="left" width="190">Links</th>
   </tr>
   <tr>
     <td align="left">01</td>
@@ -41,12 +41,12 @@
 
 ## 2024
 
-<table width="100%">
+<table width="1000">
   <tr>
-    <th align="left" width="8%">No.</th>
-    <th align="left" width="10%">Pub.</th>
-    <th align="left" width="62%">Title</th>
-    <th align="left" width="20%">Links</th>
+    <th align="left" width="70">No.</th>
+    <th align="left" width="90">Pub.</th>
+    <th align="left" width="650">Title</th>
+    <th align="left" width="190">Links</th>
   </tr>
   <tr>
     <td align="left">01</td>
@@ -70,12 +70,12 @@
 
 ## 2023
 
-<table width="100%">
+<table width="1000">
   <tr>
-    <th align="left" width="8%">No.</th>
-    <th align="left" width="10%">Pub.</th>
-    <th align="left" width="62%">Title</th>
-    <th align="left" width="20%">Links</th>
+    <th align="left" width="70">No.</th>
+    <th align="left" width="90">Pub.</th>
+    <th align="left" width="650">Title</th>
+    <th align="left" width="190">Links</th>
   </tr>
   <tr>
     <td align="left">01</td>
