@@ -1,4 +1,4 @@
-# Salient Object Detection Papers
+# Attacked SOD/COD
 > ⭐ We will keep updating it ⭐
 
 ## 2026
@@ -14,7 +14,10 @@
 |:---:|:------:|:-----------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------:|
 | 01  | ACM MM | Backdoor Attacks on Bimodal Salient Object Detection with RGB Thermal Data                                                         | [Paper](https://dl.acm.org/doi/abs/10.1145/3664647.3681096)/Code                                                                   |
 | 02  | WACV   | Defense against Adversarial Cloud Attack on Remote Sensing Salient Object Detection                                                | [Paper](https://openaccess.thecvf.com/content/WACV2024/html/Sun_Defense_Against_Adversarial_Cloud_Attack_on_Remote_Sensing_Salient_Object_WACV_2024_paper.html)/Code |
+| 03  | TGRS   | A Robust Adversarial Defense Algorithm for Enhancing Salient Object Detection in Remote Sensing Image                              | [Paper]
+()/Code |
 ## 2023
 | No. | Pub.   | Title                                                                                                                              | Links                                                                                                                              |
 |:---:|:------:|:-----------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------:|
 | 01  | AAAI   | LeNo: Adversarial Robust Salient Object Detection Networks with Learnable Noise                                                    | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25351)/[Code](https://github.com/ssecv/LeNo)                              |
+| 02  | TETC   | Adversarial Attacks Assessment of Salient Object Detection via Symbolic Learning                                                   | [Paper](https://arxiv.org/pdf/2309.05900)/Code                              |
